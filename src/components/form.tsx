@@ -35,7 +35,6 @@ const Form: React.FC = () => {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        // Form submission removed - button does nothing
     };
 
     return (

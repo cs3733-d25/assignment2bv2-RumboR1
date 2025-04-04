@@ -9,7 +9,7 @@ const Hobby2: React.FC = () => {
 
             <div className="hobby-content">
                 <img
-                    src="public/ScubaDiving.png" // Replace with actual image path
+                    src="public/ScubaDiving.png"
                     alt="Scuba Diving"
                     className="hobby-image"
                 />

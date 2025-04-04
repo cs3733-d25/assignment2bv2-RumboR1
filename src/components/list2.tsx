@@ -1,5 +1,5 @@
 import React from 'react';
-import '../list.css'; // Make sure the path is correct
+import '../list.css';
 
 const List2: React.FC = () => {
     return (
